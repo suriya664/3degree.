@@ -1,2 +1,2 @@
-# 3degree.
+# 3degree-web
 website
